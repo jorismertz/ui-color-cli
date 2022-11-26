@@ -1,0 +1,9 @@
+~ to-do ~
+- [ ] .mjs throws an error. cjs, and js work.
+- [ ] support different file types (json, yaml)
+- [ ] create install script that downloads the latest version and creates a symlink to /usr/local/bin/
+
+~ done ~
+- [x] fix create new file
+- [x] support different config js types. (cjs, mjs, js, etc.)
+- [x] add correct object structure if it isn't present already
