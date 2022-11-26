@@ -1,13 +1,15 @@
-# uicolors.app cli tool
+# UIColors cli tool
+A simple CLI tool for creating tailwind color palletes, built upon [uicolors.app](uicolors.app/create)
 
 ## installation
 ### installing executable
-1. download executable for your platform from latest release 
+1. download executable for your platform from latest release
 2. make it accesible from the command line
-   #### create a symlink in /usr/local/bin
-   learn how to do that here
-   #### place the file directly in /usr/local/bin 
-
+	```zsh
+	# creating a symlink
+	ln -s /download-directory/uicolors-(your-platform) /usr/local/bin/uicolors
+	# or just rename & place the file there directly.
+	```
 ## usage
 ```zsh
 uicolors add --color ff0000 --name red
