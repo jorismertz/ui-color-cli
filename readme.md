@@ -1,5 +1,5 @@
 # UIColors cli tool
-A simple CLI tool for creating tailwind color palletes, built upon [uicolors.app](uicolors.app/create)
+A simple CLI tool for creating tailwind color palletes, built upon [uicolors.app](https://uicolors.app/create)
 
 ## installation
 ### installing executable
